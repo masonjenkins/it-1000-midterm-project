@@ -1,18 +1,7 @@
-<!-- Readme serves as the main page. Other pages should link to the README. 
-
-Paragraphs
-Headers
-Links between md pages
-Links to external sites
-One or more images hosted in github repo
-one or more images from outside the github repo
-list
-bold text
-italic text
-code block -->
-
 # Mason Jenkins
 ## INFOTC 1000 Midterm Project
+
+Welcome to my Midterm project! I hope you enjoy learning a little bit about me and everything I am doing at Mizzou. There are multiple pages in this project, make sure to check them all out so you do not miss anything!
 
 ### Page Navigation
 - [Home](README.md)
